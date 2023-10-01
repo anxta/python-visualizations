@@ -1,2 +1,2 @@
-# python-visualizations
-a repository of my Python visualizations
+# Python visualizations
+A repository of my Python visualizations created for school or just for fun! 
